@@ -1,0 +1,17 @@
+5.3.2f1:2.2.0.0
+StandaloneWindows
+C:/I guess we can call it the new D drive/Games/Editor/Data/Managed/UnityEngine.dll
+C:/I guess we can call it the new D drive/Games/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+C:/I guess we can call it the new D drive/Games/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+C:/I guess we can call it the new D drive/Games/Editor/Data/Managed/UnityEditor.dll
+C:/I guess we can call it the new D drive/Games/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll
+C:/I guess we can call it the new D drive/Games/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll
+C:/I guess we can call it the new D drive/Games/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll
+C:/I guess we can call it the new D drive/Games/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll
+C:/I guess we can call it the new D drive/Games/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll
+C:/I guess we can call it the new D drive/Games/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll
+C:/I guess we can call it the new D drive/Games/Editor/Data/Managed/UnityEditor.Graphs.dll
+C:/I guess we can call it the new D drive/Games/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+C:/I guess we can call it the new D drive/Games/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+C:/I guess we can call it the new D drive/Games/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/2015/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll
