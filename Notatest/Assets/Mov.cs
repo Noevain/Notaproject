@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class Mov : MonoBehaviour {
-    public float speed = 1f;
+    public float speed = 4f;
     public GameObject stuffthatismoving;
 
 	// Use this for initialization
@@ -23,11 +23,11 @@ public class Mov : MonoBehaviour {
 
         if (Input.GetKey(KeyCode.S))
         {
-            stuffthatismoving.transform.Translate(Vector2.up * speed * Time.deltaTime);
+            stuffthatismoving.transform.Translate(Vector3.back * speed * Time.deltaTime);
         }
         else if (Input.GetKey(KeyCode.W))
         {
-            stuffthatismoving.transform.Translate(-Vector2.up * speed * Time.deltaTime);
+            stuffthatismoving.transform.Translate(-Vector3.back * speed * Time.deltaTime);
         }
     }
 }

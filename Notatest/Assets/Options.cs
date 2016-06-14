@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Options : MonoBehaviour {
+public class PlayerHP : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
